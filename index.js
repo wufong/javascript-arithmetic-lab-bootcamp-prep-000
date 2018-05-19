@@ -1,1 +1,3 @@
-console.log(parseInt('ajklasdf', 10))
+function makeInt(n) {
+  return parseInt(n)
+}
