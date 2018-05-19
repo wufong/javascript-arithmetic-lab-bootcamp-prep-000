@@ -25,7 +25,7 @@ function preserveDecimal(n) {
 }
 
 function dec(n) {
-  var number = dec
+  var number = parseInt(dec)
   number --
   return number
 }
