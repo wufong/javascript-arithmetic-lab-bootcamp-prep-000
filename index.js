@@ -21,5 +21,5 @@ function inc(n) {
   return number
 }
 function preserveDecimal(n) {
-  
+  return parseFloat(n)
 }
