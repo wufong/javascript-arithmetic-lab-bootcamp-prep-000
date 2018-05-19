@@ -1,4 +1,5 @@
 function makeInt(n) {
+  var number = n 
   return parseInt(n)
 }
 function add(a, b) {
