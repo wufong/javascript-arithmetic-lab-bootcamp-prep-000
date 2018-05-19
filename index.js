@@ -1,1 +1,1 @@
-console.log(parseInt('2.500a01', 10))
+console.log(parseInt('ajklasdf', 10))
