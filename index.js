@@ -1,4 +1,4 @@
-function makeInt(n) {
+function makeInt(n, 10) {
   var number = n 
   return parseInt(n)
 }
