@@ -1,6 +1,6 @@
-function makeInt(n, 10) {
-  var number = n 
-  return parseInt(n)
+function makeInt(n) {
+  var number = parseInt(n, 10)
+  return number
 }
 function add(a, b) {
   return a + b
