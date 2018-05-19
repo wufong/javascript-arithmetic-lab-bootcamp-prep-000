@@ -23,3 +23,9 @@ function inc(n) {
 function preserveDecimal(n) {
   return parseFloat(n)
 }
+
+function dec(n) {
+  var number = dec
+  number --
+  return number
+}
