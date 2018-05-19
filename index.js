@@ -20,3 +20,6 @@ function inc(n) {
   number ++
   return number
 }
+function preserveDecimal(n) {
+  
+}
